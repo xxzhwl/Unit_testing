@@ -13,7 +13,7 @@ public class TaskTest2 {
 
         @Test
         public void test() {
-            System.out.println("这里是学号：SF1916059");
+            System.out.println("这里是学号：xxxxxxxxx");
         }
 
     }
