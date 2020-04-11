@@ -13,7 +13,7 @@ public class TaskTest1 {
 
     @Test
     public void test() {
-        System.out.println("这里是姓名：展万里");
+        System.out.println("这里是姓名：xxx");
     }
 
 }
